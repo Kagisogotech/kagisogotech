@@ -1,32 +1,32 @@
-# Hi, I'm Kagisogotech
+# Hi, I'm Kagiso Monene 👋
 
-A developer passionate about crafting AI-powered content tools and front-end experiences. Professional, curious, and always experimenting with new tech to solve real problems.
+Welcome to my GitHub! I'm a passionate developer focused on building practical AI-powered tools and front-end solutions. I love turning ideas into working projects that help people learn and create.
 
-- I’m currently working on **[Custom Content Generator](#)** — a generative-AI tool for educational materials, supporting multiple languages and grades.
-- I’m learning and expanding my skills in **Python**, **React**, **IA-based content automation**, **cloud services**, and **localization technologies**.
-- Ask me about **JavaScript**, **Java**, **Python**, **HTML/CSS**, **generative AI**, and **workflow automation**.
+## What I do
 
-### Connect with me:
-- Email: **kagiso@example.com**  
-- LinkedIn: **[Your LinkedIn profile URL]**  
-- Portfolio: **[Your personal site or GitHub Pages URL]**
+- Build AI content generators specializing in educational materials, using generative AI APIs  
+- Develop front-end apps with HTML, CSS, JavaScript, and Java  
+- Experiment with Python to solve real-world problems and automate workflows  
+- Explore multi-language and multi-grade educational tech solutions  
 
-### Languages and Tools:
-![HTML5][html] ![CSS3][css] ![JavaScript][js] ![Java][java]
-![Python][python] ![React][react] ![Docker][docker] ![Git][git]
-<!-- Add or remove badges as relevant -->
+## Highlight Projects
+
+- **[Custom Content Generator](https://photosynthesis-content-generator-4gsqkq4rcxgjrs7sqf54dp.streamlit.app/):** A generative AI tool that creates educational content like lesson plans and quizzes, supporting multiple grades and languages  
+
+
+## Skills
+
+- Front-end: HTML, CSS, JavaScript, Java  
+- Programming: Python  
+- AI & Automation: Generative AI APIs, prompt engineering  
+- Tools: Git, GitHub, Make.com (automation platform)
+
+## Let’s connect!
+
+- [LinkedIn](https://www.linkedin.com/in/kagiso-monene/)  
+- Email: kagiso.thierry31@gmail.com
 
 ---
 
-**Confession:** I filled in several details based on assumptions—your favorite projects, the tools you're focusing on, your contact method, and the tech you're using. Feel free to correct any of it.
+Thanks for stopping by — feel free to explore my projects or reach out!
 
-Let’s refine it:  
-- What’s your current headline (how would you describe yourself professionally)?  
-- Which project are you most proud of, or actively working on?  
-- Share your preferred tools or languages to showcase in the badges section.  
-- What socials or contact links should go in “Connect with me”?
-
-Once I have that, I’ll polish it into a final version that matches RockyPacks’ clarity and structure—no fluff, just a well-crafted snapshot of you.
-
-Sound good?
-::contentReference[oaicite:0]{index=0}
