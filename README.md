@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building practical A
 
 ## Highlight Projects
 
-- **Custom Content Generator:** A generative AI tool that creates educational content like lesson plans and quizzes, supporting multiple grades and languages  
+- **Custom Content Generator:** [A generative AI tool that creates educational content like lesson plans and quizzes, supporting multiple grades and languages](https://photosynthesis-content-generator-4gsqkq4rcxgjrs7sqf54dp.streamlit.app/)  
 
 
 ## Skills
