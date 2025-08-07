@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a passionate developer focused on building practical A
 
 ## Let’s connect!
 
-- [LinkedIn]((https://www.linkedin.com/in/kagiso-monene/))
+- [LinkedIn](https://www.linkedin.com/in/kagiso-monene/)
 - Email: kagiso.thierry31@gmail.com
 
 ---
