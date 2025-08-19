@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Front end languages**
 
-- 📫 How to reach me **[Gmail](kagiso.thierry31@gmail.com)**
+- 📫 How to reach me **[Gmail](kagisothierry31@gmail.com)**
 
 - ⚡ Fun fact **I think im funny**
 
