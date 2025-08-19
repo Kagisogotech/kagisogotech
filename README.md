@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagisogotech&label=Profile%20views&color=0e75b6&style=flat" alt="kagisogotech" /> </p>
 
-- 🔭 I’m currently working on [Content generator](https://photosynthesis-content-generator-4gsqkq4rcxgjrs7sqf54dp.streamlit.app/)
 
 - 🌱 I’m currently learning **Streamlit, Angular, React, AI Fundamentals**
 
