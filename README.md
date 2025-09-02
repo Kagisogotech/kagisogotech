@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any big or small creator**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Kagisogotech)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Kagisogotech?tab=repositories)
 
 - 💬 Ask me about **Front end languages**
 
