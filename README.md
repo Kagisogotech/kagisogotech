@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾👋🏾, I'm Kagiso Monene</h1>
+<h1 align="center">Hi 👋🏾, I'm Kagiso Monene</h1>
 <h3 align="center">Welcome to my GitHub! I'm a passionate developer focused on building practical AI-powered tools and front-end solutions. I love turning ideas into working projects that help people learn and create.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagisogotech&label=Profile%20views&color=0e75b6&style=flat" alt="kagisogotech" /> </p>
