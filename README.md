@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kagisogotech&label=Profile%20views&color=0e75b6&style=flat" alt="kagisogotech" /> </p>
 
 
-- 🌱 I’m currently learning **Streamlit, Angular, React, AI Fundamentals**
+- 🌱 I’m currently learning **AI Fundamentals**
 
 - 👯 I’m looking to collaborate on **any big or small creator**
 
