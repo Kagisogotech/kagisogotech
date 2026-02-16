@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **Power BI**
 
-- 👨‍💻 All of my projects are available at [https://profile-beta-gray.vercel.app/](https://profile-beta-gray.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://profile-beta-gray.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/kagiso-monene/](https://www.linkedin.com/in/kagiso-monene/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/kagiso-monene/)
 
 - 💬 Ask me about **AI, Integration**
 
 - 📫 How to reach me **kagisothierry31@gmail.com**
 
-- 📄 Know about my experiences [https://profile-beta-gray.vercel.app/resume](https://profile-beta-gray.vercel.app/#resume)
+- 📄 Know about my experiences [Portfolio](https://profile-beta-gray.vercel.app/#resume)
 
 - ⚡ Fun fact **Im a social butterfly, easy to engage with**
 
