@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kagisothierry31@gmail.com**
 
-- 📄 Know about my experiences [https://profile-beta-gray.vercel.app/resume](https://profile-beta-gray.vercel.app/resume)
+- 📄 Know about my experiences [https://profile-beta-gray.vercel.app/resume](https://profile-beta-gray.vercel.app/#resume)
 
 - ⚡ Fun fact **Im a social butterfly, easy to engage with**
 
